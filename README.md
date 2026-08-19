@@ -6,7 +6,7 @@
     <strong>Enterprise Self-Hosted Autonomous AI Agent & Automation Platform</strong>
   </p>
   <p align="center">
-    Orchestrate, observe, and automate autonomous AI coding agents (Claude, Codex, Gemini, DeepSeek) across local, Docker, and private cloud sandboxes.
+    Orchestrate, observe , and automate autonomous AI coding agents (Claude, Codex, Gemini, DeepSeek) across local, Docker, and private cloud sandboxes.
   </p>
 </div>
 
